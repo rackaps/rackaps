@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Racka Pratama</h1>
-<h3 align="center">Problem solving addict who disguise as Backend Developer</h3>
+<h3 align="center">Problem solving addict who disguise as a Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rackaps&label=Profile%20views&color=0e75b6&style=flat" alt="rackaps" /> </p>
 
